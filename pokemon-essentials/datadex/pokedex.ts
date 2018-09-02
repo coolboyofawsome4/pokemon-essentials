@@ -992,5 +992,4 @@ namespace PE {
     BLACEPHALON = 'BLACEPHALON',
     ZERAORA = 'ZERAORA',
     MISSINGNO = 'MISSINGNO'
-  }
-}
+    coolboy='coolboy'
